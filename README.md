@@ -25,27 +25,27 @@ The system uses a Large Language Model (LLM) with advanced prompt engineering te
 
 ---
 ## 🏗️ Project Structure
-'''
+
+```
 email-generator-assistant/
 │
 ├── app/
-│ ├── init.py
-│ ├── main.py # Streamlit UI
-│ ├── generator.py # Email generation logic
-│ ├── prompts.py # Prompt templates
-│ ├── evaluator.py # Evaluation logic
-│ ├── metrics.py # Custom metrics
-│ ├── test_data.py # Test scenarios
+│   ├── __init__.py
+│   ├── main.py              # Streamlit UI
+│   ├── generator.py         # Email generation logic
+│   ├── prompts.py           # Prompt templates
+│   ├── evaluator.py         # Evaluation logic
+│   ├── metrics.py           # Custom metrics
+│   ├── test_data.py         # Test scenarios
 │
 ├── outputs/
-│ └── evaluation_results.csv
+│   └── evaluation_results.csv
 │
-├── run_evaluation.py # Script to run evaluation
+├── run_evaluation.py        # Script to run evaluation
 ├── requirements.txt
 ├── README.md
 ├── .env (not included in repo)
-'''
-
+```
 ---
 
 ## Setup Instructions
