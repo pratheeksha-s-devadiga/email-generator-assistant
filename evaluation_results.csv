@@ -1,0 +1,11 @@
+intent,fact_score,conciseness,tone
+Follow up after meeting,0.3333333333333333,1.0,0.6
+Request leave,0.3333333333333333,1.0,0.6
+Apologize for delay,0.3333333333333333,1.0,0.6
+Request for proposal details,0.3333333333333333,1.0,0.6
+Schedule meeting,1.0,1.0,0.6
+Provide project update,0.0,1.0,0.6
+Request feedback,0.3333333333333333,1.0,0.6
+Reschedule meeting,0.3333333333333333,1.0,0.6
+Thank client,0.3333333333333333,1.0,1.0
+Request extension,0.0,1.0,0.6
