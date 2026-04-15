@@ -27,7 +27,6 @@ The system uses a Large Language Model (LLM) with advanced prompt engineering te
 
 ##  Project Structure
 
-
 email-generator-assistant/
 │
 ├── app/
@@ -45,7 +44,7 @@ email-generator-assistant/
 ├── run_evaluation.py # Script to run evaluation
 ├── requirements.txt
 ├── README.md
-├── .env (not included in repo)
+├── .env (not included in repo
 
 ---
 
