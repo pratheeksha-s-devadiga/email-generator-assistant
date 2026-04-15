@@ -25,7 +25,8 @@ The system uses a Large Language Model (LLM) with advanced prompt engineering te
 
 ---
 
-## Project Structure
+##  Project Structure
+
 
 email-generator-assistant/
 │
