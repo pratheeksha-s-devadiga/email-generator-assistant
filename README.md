@@ -25,6 +25,7 @@ The system uses a Large Language Model (LLM) with advanced prompt engineering te
 
 ---
 ## 🏗️ Project Structure
+'''
 email-generator-assistant/
 │
 ├── app/
@@ -43,6 +44,7 @@ email-generator-assistant/
 ├── requirements.txt
 ├── README.md
 ├── .env (not included in repo)
+'''
 
 ---
 
