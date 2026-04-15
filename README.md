@@ -155,9 +155,9 @@ Evaluates whether the generated email matches the requested tone.
 Ensures the email is neither too long nor too short.
 
 **Logic:**
-- 80–150 words → Ideal (Score = 1.0)  
-- Slight deviation → Score = 0.7  
-- Too short/long → Score = 0.4  
+- 80-150 words - Ideal (Score = 1.0)  
+- Slight deviation - Score = 0.7  
+- Too short/long - Score = 0.4  
 
 ---
 
