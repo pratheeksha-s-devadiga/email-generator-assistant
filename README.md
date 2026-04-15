@@ -29,8 +29,8 @@ The system uses a Large Language Model (LLM) with advanced prompt engineering te
 
 email-generator-assistant/
 │
-├── app/
-│ ├── init.py
+├──  app/
+│ ├──  __init.py__
 │ ├── main.py # Streamlit UI
 │ ├── generator.py # Email generation logic
 │ ├── prompts.py # Prompt templates
