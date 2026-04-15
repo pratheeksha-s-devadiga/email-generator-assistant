@@ -44,8 +44,6 @@ email-generator-assistant/
 ├── README.md
 ├── .env (not included in repo)
 
-
-
 ---
 
 ## Setup Instructions
